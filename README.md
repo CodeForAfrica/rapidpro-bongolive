@@ -7,9 +7,7 @@ To get started, simply set the following ENV Variables and deploy:
 
 ```
 RP_HOSTNAME=textit.in
-
 RP_PATH_MOYO=/c/ex/.../receive
-
 ```
 
 ### Deployment
