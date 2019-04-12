@@ -1,6 +1,8 @@
 Rapidpro - BongoLive
 --------------------
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/CodeForAfrica/rapidpro-bongolive.svg)](https://greenkeeper.io/)
+
 Thin middleware to route SMSs from BongoLive to Rapidpro.
 
 To get started, simply set the following ENV Variables and deploy:
